@@ -13,7 +13,6 @@ Using Munzer’s task taxonomy [^5] a Tableau storyboard, consisting of three da
 
 This report follows Munzer’s ‘What-Why-How’ structure [^5] to explain the steps taken for building the visualisation. ‘Data Preparation and Abstraction’ addresses ‘What’ is shown to the user. ‘Task Definition’ addresses ‘Why’ the user is looking at what they see. ‘Visual Justification’ addresses the ‘How’ by justifying the visual encoding/interaction of idioms using information visualisation principles. Additionally, the ‘Evaluation’ section summarizes the results of a small validation study to assess the suitability of the visualisation for the primary user.
 
-## References
 [^1]: Bayliss, J., & Sly, F. (2010). Ageing across the UK. Regional Trends, 42, 2-28.
 [^2]: Office for National Statistics. (2011). 2011 Census. Retrieved 12/05/2024 from https://www.nomisweb.co.uk/sources/census_2011
 [^3]: Office for National Statistics. (2021). 2021 Census - Office for National Statistics. Retrieved 12/05/2024 from https://www.ons.gov.uk/census
